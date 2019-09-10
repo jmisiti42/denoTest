@@ -12,9 +12,9 @@ And finnaly allow deno to access your *8000* port by typing `y` and then pressin
 
 # Try this out:
 - http://localhost:8000
-Should show you Hello World
+Should show you *Hello World*
 - http://localhost:8000/goodbye
-Should show you Good Bye World
+Should show you *Good Bye World*
 
 
 [Deno Land]: <https://deno.land>
