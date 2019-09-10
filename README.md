@@ -4,7 +4,7 @@ A small project to try out Deno language from [Deno Land]
 # Installation:
 If you don't have deno, you should install it first. To do so, follow [this] tutorial.
 
-First, git clone\n
+First, git clone<br />
 `git clone git@github.com:jmisiti42/denoTest.git`\n
 Then, use\n
 `deno server.ts`\n
