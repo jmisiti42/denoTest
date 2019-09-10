@@ -5,9 +5,9 @@ A small project to try out Deno language from [Deno Land]
 If you don't have deno, you should install it first. To do so, follow [this] tutorial.
 
 First, git clone<br />
-`git clone git@github.com:jmisiti42/denoTest.git`\n
-Then, use\n
-`deno server.ts`\n
+`git clone git@github.com:jmisiti42/denoTest.git`<br />
+Then, use<br />
+`deno server.ts`<br />
 And finnaly allow deno to access your *8000* port by typing `y` and then pressing `enter`
 
 # Try this out:
