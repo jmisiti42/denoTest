@@ -1,4 +1,4 @@
-// Copyright 2018-2019 the Deno authors. All rights reserved. MIT license.
+// Copyright 2019 Jeremy Misiti. All rights reserved. MIT license.
 
 import { serve } from "https://deno.land/std@v0.12/http/server.ts";
 
